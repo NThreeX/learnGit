@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks change.
 
 Today is 2016.05.30
+Today is 2016.05.31
