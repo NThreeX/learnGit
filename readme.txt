@@ -10,3 +10,4 @@ Today is 2016.06.01
 Today is 2016.06.12
 
 Creating a new branch is quick and simple.
+now test how to delete force
