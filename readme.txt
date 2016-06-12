@@ -8,4 +8,4 @@ Today is 2016.05.31
 Today is 2016.06.01
 
 Today is 2016.06.12
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
