@@ -11,3 +11,5 @@ Today is 2016.06.12
 
 Creating a new branch is quick and simple.
 now test how to delete force
+
+now do some modify, just test for git stash
