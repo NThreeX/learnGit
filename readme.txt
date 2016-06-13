@@ -15,3 +15,4 @@ now test how to delete force
 
 now do some modify, just test for git stash
 
+now is dev branch and i modify from my VM computer
