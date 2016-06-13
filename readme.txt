@@ -15,3 +15,5 @@ now test how to delete force
 
 now do some modify, just test for git stash
 
+
+now after VM push, i modify it from my real computer
